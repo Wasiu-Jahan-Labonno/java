@@ -1,0 +1,23 @@
+Lab Classwork 06/08/23
+
+
+Create a class called Calculator which will have 5 methods. The methods are given below:
+1. addition
+2. substraction
+3. multiplication
+4. division
+5. average
+
+Take two integer values from user and use the methods on them.
+
+
+Lab Classwork 30/07/23
+Create a switch case for mobile operator:
+The menu should show the followings: 
+1. Check your mobile number
+2. Offers:
+            1. Get 20 min 20tk
+            2. Get 2 GB 20tk
+3. Check your Internet Balance
+4. Check your Talktime Balance
+5. Exit
